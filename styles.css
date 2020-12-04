@@ -1,0 +1,36 @@
+
+
+.Jennifer{font-family: 'Architects Daughter', cursive;}
+
+.Jennifer{font-size:50px;}
+
+p {font-size: 18px;}
+
+h1 {text-shadow: 4px 4px 8px #aa00ff;}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 35%;}
+
+p:hover {background-color: #b67780;}
+
+body{background-image:url("https://i.ibb.co/BLBDP8X/angel.jpg");}
+
+img{border-radius: 300px;}
+
+html{border: 50px groove #b4dcd4;}
+
+li{font-family: 'Amatic SC', cursive;}
+
+li{font-size:24px;}
+
+p{font-size:29px;}
+
+h1 {
+    color: #4c2e4a;}
+
+
+
+
